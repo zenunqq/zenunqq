@@ -1,3 +1,1 @@
-# zenunqfnbr
-Im gay 101
-[![zenunqfnbr's Discord status](https://dsc-readme.tsuni.dev/api/user/1226012115500798024?theme=gruvbox&width=1208)](https://github.com/the-snesler/discord-github-preview)
+[![zenunqfnbr's Discord status](https://dsc-readme.tsuni.dev/api/user/1226012115500798024?theme=nitroDark&primaryColor=8180ff&accentColor=fe80c0&width=512)](https://github.com/the-snesler/discord-github-preview)
